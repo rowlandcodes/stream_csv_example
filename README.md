@@ -7,7 +7,8 @@ It is the demo code for my blog post [here](https://row.land/codes/stream-csv).
 ## Usage
 
 Run:
-```
+
+```sh
 mix setup
 mix phx.server
 ```
